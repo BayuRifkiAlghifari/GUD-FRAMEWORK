@@ -77,6 +77,8 @@
 		{
 			$this->liblaries 	= $lib;
 
+			$this->liblaries 	= ucfirst($this->liblaries);
+
 			require_once '../app/liblaries/' . $this->liblaries . '.php';
 
 			return new $this->liblaries;

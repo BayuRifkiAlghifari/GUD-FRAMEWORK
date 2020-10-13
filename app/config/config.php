@@ -1,5 +1,5 @@
 <?php
 
-	const base_url 	= 'http://localhost/Your Folder Name/';
+	const base_url 	= 'http://localhost/YOUR FOLDER NAME/';
 	
 	// Tambahin ajah

@@ -8,8 +8,9 @@
 	require_once 'core/Controller.php';
 	require_once 'core/Model.php';
 
+	require 'helper/url.php';
+	require 'helper/input.php';
 	require 'config/config.php';
 	require 'config/database.php';
-	require 'config/helper.php';
 
-	//Load Config
+	//Load Config and Liblaries
