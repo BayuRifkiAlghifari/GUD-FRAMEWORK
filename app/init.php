@@ -13,4 +13,4 @@
 	require 'config/config.php';
 	require 'config/database.php';
 
-	//Load Config and Liblaries
+	//Load Config, Helper or Liblaries
